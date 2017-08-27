@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blacksails.io/</loc>
+    <loc>https://blacksails.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blacksails.io/categories/</loc>
+    <loc>https://blacksails.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blacksails.io/tags/</loc>
+    <loc>https://blacksails.io/tags/</loc>
     <priority>0</priority>
   </url>
   
