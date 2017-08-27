@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2017-08-27T23:32:12+02:00
-draft: true
+draft: false
 ---
 
 OK, i finally got my domain name [blacksails.io](http://blacksails.io). So i
